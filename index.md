@@ -49,7 +49,7 @@ It looks like you are setting up a website for a Data Carpentry curriculum but y
 
 <h2 id="register">Registration Information</h2>
 
-<p> <a href='https://outlibrary.co1.qualtrics.com/jfe/form/SV_41PvA0r7VVfXhIN'>Registration</a> for this workshop is <b>required</b>. Any questions regarding registation and/or the workshop can be sent to the contacts listed below. </p>
+<p> <big><a href='https://outlibrary.co1.qualtrics.com/jfe/form/SV_41PvA0r7VVfXhIN'>Registration</a> for this workshop is <b>required</b>.</big> Any questions regarding registation and/or the workshop can be sent to the contacts listed below. </p>
 
 {% comment %}
 EVENTBRITE
