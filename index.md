@@ -46,6 +46,11 @@ It looks like you are setting up a website for a Data Carpentry curriculum but y
 {% endunless %}
 {% endif %}
 
+
+<h2 id="register">Registration Information</h2>
+
+<p> <a href='https://outlibrary.co1.qualtrics.com/jfe/form/SV_41PvA0r7VVfXhIN'>Registration</a> for this workshop is <b>required</b>. Any questions regarding registation and/or the workshop can be sent to the contacts listed below. </p>
+
 {% comment %}
 EVENTBRITE
 
@@ -137,6 +142,7 @@ Modify the block below if there are any special requirements.
   <ul><li>Participants must bring a laptop with a
   Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).</li>
     <li>There will be a $20 workshop fee. Payment details will be provided upon registration.</li>
+    </ul>
 </p>
 
 {% comment%}
